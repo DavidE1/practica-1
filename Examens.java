@@ -17,7 +17,7 @@ public Examens(){
 
 puntos=0;
 
-f1=new JFrame("Parte 1");
+*/f1=new JFrame("Parte 1");
 f2=new JFrame("Parte 2");
 f3=new JFrame("Respuestas");
 f4=new JFrame("Menu");
@@ -26,7 +26,7 @@ f6=new JFrame("Maestros");
 f7=new JFrame("Opciones");
 f8=new JFrame("Eliminar");
 f9=new JFrame("Modificar");
-f10=new JFrame("Reporte de Calif.");
+f10=new JFrame("Reporte de Calif.");/*
 
 
 b1=new Button("Parte 2 ");
